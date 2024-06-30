@@ -1,1 +1,1 @@
-# git-and-github-foundation-certification-course
+# Git-and-github-foundation-certification-course
