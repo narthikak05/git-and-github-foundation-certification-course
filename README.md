@@ -52,10 +52,10 @@
             </li>
         </ul>
     </li>
-    <li><a href="#Readme file">Readme file</a></li>
-    <li><a href="#.gitignore file">.gitignore file</a></li>
-    <li><a href="#License file">License file</a></li>
-    <li><a href="#GitHub codespace">GitHub codespace</a></li>
+    <li><a href="#Readme-file">Readme file</a></li>
+    <li><a href="#gitignore-file">.gitignore file</a></li>
+    <li><a href="#license-file">License file</a></li>
+    <li><a href="#github-codespace">GitHub codespace</a></li>
 </ul>
 
 
