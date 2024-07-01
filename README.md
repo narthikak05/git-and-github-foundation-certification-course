@@ -90,8 +90,9 @@ https://git-scm.com/download/linux
 Install git from official website:https://git-scm.com
 ### Open terminal or command propmt
 ### Initalize new git repository
+```
 git init
-
+```
 ## Update changes
 ## git add
 It is used to add changes.
@@ -166,7 +167,7 @@ The README file serves as documentation to provide essential information about y
 ```
 The .gitignore file is a text file used by Git to specify files and directories that should be ignored and not tracked by version control.
 ```
-## Licence file
+## License file
 ```
 A license file in a software project is a legal document that specifies the terms under which the software can be used, modified, and distributed.
 ```
