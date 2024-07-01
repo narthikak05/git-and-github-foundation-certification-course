@@ -52,6 +52,10 @@
             </li>
         </ul>
     </li>
+    <li><a href="#Readme file">Readme file</a></li>
+    <li><a href="#.gitignore file">.gitignore file</a></li>
+    <li><a href="#License file">License file</a></li>
+    <li><a href="#GitHub codespace">GitHub codespace</a></li>
 </ul>
 
 # Git and GitHub
@@ -151,3 +155,19 @@ It is a command line interface to interact with github account.
 <li>gh codespace</li>
 <li>gh browse</li>
 
+## Readme file
+```
+The README file serves as documentation to provide essential information about your project to anyone visiting your repository.
+```
+## .gitignore file
+```
+The .gitignore file is a text file used by Git to specify files and directories that should be ignored and not tracked by version control.
+```
+## Licence file
+```
+A license file in a software project is a legal document that specifies the terms under which the software can be used, modified, and distributed.
+```
+## GitHub Codespace
+```
+GitHub Codespaces is a cloud-based development environment that allows you to develop and test your code directly within your GitHub repository. It provides a fully-configured development environment in the cloud, accessible from your browser or Visual Studio Code, eliminating the need for setting up and maintaining local development environments.
+```
