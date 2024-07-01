@@ -1,4 +1,6 @@
 # GitHub Fundamentals
+
+## Table of contents
 <ul>
     <li><a href="#git-and-github">Git and GitHub</a>
         <ul>
