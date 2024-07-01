@@ -1,12 +1,68 @@
+# GitHub Fundamentals
+<ul>
+    <li><a href="#git-and-github">Git and GitHub</a>
+        <ul>
+            <li><a href="#git">Git</a></li>
+            <li><a href="#github">GitHub</a></li>
+        </ul>
+    </li>
+    <li><a href="#common-terms">Common terms</a></li>
+    <li><a href="#installing-git">Installing git</a>
+        <ul>
+            <li><a href="#windows">Windows</a></li>
+            <li><a href="#linux">Linux</a></li>
+        </ul>
+    </li>
+    <li><a href="#installing-git-in-local-repository">Installing Git in local repository</a>
+        <ul>
+            <li><a href="#install-git">Install git</a></li>
+            <li><a href="#open-terminal-or-command-prompt">Open terminal or command prompt</a></li>
+        </ul>
+    </li>
+    <li><a href="#update-changes">Update changes</a>
+        <ul>
+            <li><a href="#git-add">git add</a></li>
+            <li><a href="#to-add-all-changes">To add all changes</a></li>
+            <li><a href="#to-add-specific-file">To add specific file</a></li>
+            <li><a href="#git-commit">git commit</a></li>
+            <li><a href="#git-log">git log</a></li>
+        </ul>
+    </li>
+    <li><a href="#branches">Branches</a>
+        <ul>
+            <li><a href="#to-provide-all-branch">To provide all branch</a></li>
+            <li><a href="#create-new-branch">Create new branch</a></li>
+            <li><a href="#delete-a-branch">Delete a branch</a></li>
+        </ul>
+    </li>
+    <li><a href="#merge">Merge</a>
+        <ul>
+            <li><a href="#switch-to-the-target-branch">Switch to the Target Branch</a></li>
+        </ul>
+    </li>
+    <li><a href="#pullrequest">Pull request</a></li>
+    <li><a href="#clone">Clone</a>
+        <ul>
+            <li><a href="#https">HTTPS</a></li>
+            <li><a href="#ssh">SSH</a></li>
+            <li><a href="#github-cli">GitHub CLI</a>
+                <ul>
+                    <li><a href="#core-commands">Core commands</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+</ul>
+
 # Git and GitHub
 ## Git 
 >Git is a distributed version control system (DVCS) designed to track changes in source code during software development.
 ## GitHub
 >GitHub, on the other hand, is a web-based platform built around Git that provides hosting for Git repositories.
-### Common terms :
->clone: Cloning a repository means creating a local copy on your machine from a remote repository hosted on GitHub.
+## Common terms :
+>Clone: Cloning a repository means creating a local copy on your machine from a remote repository hosted on GitHub.
 
->branch:A branch is a parallel version of the repository that allows developers to work on different features or fixes independently without affecting the main codebase
+>Branch:A branch is a parallel version of the repository that allows developers to work on different features or fixes independently without affecting the main codebase
 
 >Commit: A commit represents a snapshot of changes made to the repository at a specific time. 
 
@@ -22,7 +78,7 @@ https://git-scm.com
 ```
 https://git-scm.com/download/linux
 ```
-## Git in local repository
+## Installing Git in local repository
 ### Install git
 Install git from official website:https://git-scm.com
 ### Open terminal or command propmt
@@ -76,7 +132,7 @@ git checkout main
 A pull request in Git is a request to merge changes from a feature branch into the main branch. It facilitates code review and collaboration among team members before changes are merged.
 
 ## Clone
-We can do cloning in three ways **1.HTTPS    2.SSH    3.GitHubCLI**
+We can do cloning in three ways 1.HTTPS  2.SSH  3.GitHubCLI
 ### HTTPS
 It provides a secure means of communication between your local machine and GitHub servers.
 ```
@@ -90,7 +146,8 @@ git@github.com:Github-narthika/git-and-github-foundation-certification-course.gi
 ### GitHubCLI
 It is a command line interface to interact with github account.
 ### core commands
--gh auth
--gh browse
--gh issue
--gh codespace
+<li>gh auth</li>
+<li>gh issue</li>
+<li>gh codespace</li>
+<li>gh browse</li>
+
